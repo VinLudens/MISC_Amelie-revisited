@@ -1,11 +1,7 @@
-Using the template:
-- [ ] Set the `MAIN_FILE` repository variable (filename without extension)
-- [ ] add `./openlilylib` directory with submodules inside if needed
-
 # About
 
-[Lilypond](https://lilypond.org/) source code for XXX.
+A re-arrangement I made of the famous song.
 
 # Recording
 
-- To be recorded
+- To be recorded?
